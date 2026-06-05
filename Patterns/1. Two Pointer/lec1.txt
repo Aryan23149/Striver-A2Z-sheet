@@ -1,0 +1,10 @@
+https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/ this was the question i solved
+
+
+below is its solution:
+https://github.com/Aryan23149/Leetcode-Solutions/blob/main/167_Two_Sum_2.cpp
+
+
+
+
+
