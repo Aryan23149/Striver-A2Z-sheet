@@ -61,7 +61,7 @@ class Solution {
           // Time:
           // “O(n·k), since there are n states and each state tries up to k transitions.”
           // Space:
-          // “O(n+n) auxiliary space due to dp array and recursion stack.”
+          // “O(n) auxiliary space due to dp array and recursion stack.”
           // int n=arr.size();
           // vector<int> dp(n,-1);
           // return fmemo(0,n,k,arr,dp);
