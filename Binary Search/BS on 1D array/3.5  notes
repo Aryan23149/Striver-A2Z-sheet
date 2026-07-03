@@ -1,0 +1,11 @@
+int idx = lower_bound(arr.begin(), arr.end(), target) - arr.begin();
+int idx = upper_bound(arr.begin(), arr.end(), target) - arr.begin();
+
+A simple memory trick
+
+Think of the names:
+
+Lower Bound → the lowest (leftmost) place where x could go without violating sorted order. That means the first element ≥ x.
+Upper Bound → the first position after all occurrences of x, i.e., the first element > x.
+
+Find the first position where this number can be inserted without breaking the sorted order.: lower bound
