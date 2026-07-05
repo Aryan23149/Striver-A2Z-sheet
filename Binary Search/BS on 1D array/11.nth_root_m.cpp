@@ -1,4 +1,5 @@
 class Solution {
+    // gfg : https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1
     public:
       long long int ntimes_number(long long int mid,long long int n){
           long long int ans = 1;
