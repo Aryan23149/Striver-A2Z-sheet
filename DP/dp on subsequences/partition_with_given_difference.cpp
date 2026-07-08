@@ -1,3 +1,4 @@
+// coding ninjas: https://www.naukri.com/code360/problems/partitions-with-given-difference_3751628
 #include <bits/stdc++.h>
 int mod = 1e9+7; 
 int solve(vector<int> & arr, int i ,int n, int s1,int s2,int d){
